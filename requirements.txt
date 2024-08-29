@@ -1,0 +1,8 @@
+pygame
+neat-python
+numpy
+networkx
+torch
+snntorch
+hypernetx
+configparser
