@@ -9,7 +9,7 @@ This repository implements a sophisticated AI framework combining NeuroEvolution
 - `pong-game-qvsneat.py`: Implements a Pong game where NEAT-CA competes against a Q-learning agent.
 - `maze-solver-3.py`: Maze-solving agent using NEAT-CA, Hypergraph SNN, and STDP.
 - `uav_main3.py`: UAV control simulation using Hypergraph SNNs with STDP and NEAT-CA.
-- `QuantumCryptoAgent.py`: A placeholder file likely related to quantum cryptography in AI contexts.
+- `QuantumCryptoAgent.py`: Implements a quantum-assisted portfolio optimization agent using NEAT, SNN, VAE, and Hypergraph layers with PPO reinforcement learning for cryptocurrency trading
 
 ### Requirements
 
